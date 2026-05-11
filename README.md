@@ -64,8 +64,7 @@ Movie_Ratings_Data_Processing/
 │
 ├── notebooks/
 │   └── Movie_Ratings_Data_Processing-English.ipynb
-│
-├── images/
+│   └── Movie_Ratings_Data_Processing-Spanish.ipynb
 │
 ├── README.md
 └── requirements.txt
